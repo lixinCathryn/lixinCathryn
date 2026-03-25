@@ -10,7 +10,7 @@ I am a Master's student at **Central China Normal University (CCNU)**, School of
 
 ### 🛠️ Tech Stack & Tools
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-- **Frameworks**: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+- **Frameworks**: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow)
 - **Specialties**: QLoRA fine-tuning of LLM.
 
 ### 🎓 Education & Experience
